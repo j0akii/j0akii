@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--Joaquin Urtasun
-
-⚡ FRONT-END ⚡
-
 Hola!, actualmente estoy terminando mi carrera como Full-Stack developer en Henry y aun asi me encuentro en la busqueda laboral activa con ganas de comenzar con mis primeros pasos en el desarrollo de software. Estoy buscando un lugar que me permita crecer de forma personal y profesional siendo parte del equipo!; Soy muy apasionado por lo que hago y busco siempre aprender nuevas tecnologias para implementarlas a mi trabajo diario!.
 
 Las tecnologias que actualmente manejo son:
