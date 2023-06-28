@@ -27,3 +27,5 @@ Las tecnologias que actualmente manejo son:
 - HTML
 -SQL
 -Postgre
+
+Mail: joakiurtasun@gmail.com
